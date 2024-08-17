@@ -1,7 +1,6 @@
 ![2BYAAG Logo](/logo.jpeg)
 
 # Welcome to 2BYAAG Community
-# Welcome to 2BYAAG (To Be Act) Community
 
 ## Mission Statement
 
