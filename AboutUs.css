@@ -161,7 +161,7 @@
   width: 776px;
   position: relative;
   display: inline-block;
-  filter: blur(4px);
+  /* filter: blur(4px); */
 }
 .description-container {
   align-self: stretch;
@@ -179,7 +179,7 @@
   font-size: inherit;
   font-weight: 300;
   font-family: inherit;
-  filter: blur(4px);
+  /* filter: blur(4px); */
 }
 .how-by-connecting {
   margin: 0;
@@ -194,7 +194,7 @@
   width: 973px;
   position: relative;
   display: inline-block;
-  filter: blur(4px);
+  /* filter: blur(4px); */
 }
 .how-by-connecting-you-with-re-wrapper {
   display: flex;
