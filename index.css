@@ -614,6 +614,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
+  border-radius: 20px;
   padding: var(--padding-43xl) 221px 80px;
   box-sizing: border-box;
   position: relative;
